@@ -2,7 +2,7 @@
 
 ## Background
 
-SupplyChain360 is a global retail company that sells products across multiple countries and markets. The company manages customer orders, inventory, shipping, and product deliveries.
+DataCo Global is a global retail company that sells products across multiple countries and markets. The company manages customer orders, inventory, shipping, and product deliveries.
 
 Recently, the company has experienced several operational challenges that affect profitability and customer satisfaction.
 
