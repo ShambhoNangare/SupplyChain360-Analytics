@@ -164,10 +164,16 @@ Planned activities:
 
 ```
 SupplyChain360-Analytics/
-
 │
 ├── README.md
-│
+|
+├── reports/
+│   ├── Business_Problem.md
+│   ├── Business_Objectives.md
+│   ├── Business_Questions.md
+│   ├── Project_Scope.md
+│   └── Stakeholders.md
+|
 ├── notebooks/
 │   ├── 01_Data_Understanding.ipynb
 │
