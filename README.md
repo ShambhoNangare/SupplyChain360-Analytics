@@ -168,10 +168,6 @@ SupplyChain360-Analytics/
 │
 ├── README.md
 │
-├── data/
-│   ├── raw/
-│   └── processed/
-│
 ├── notebooks/
 │   ├── 01_Data_Understanding.ipynb
 │
