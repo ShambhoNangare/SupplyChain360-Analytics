@@ -216,7 +216,7 @@ By the completion of this project:
 
 ## 👤 Author
 
-**Your Name**
+**Shambho Nangare**
 
 Aspiring Data Analyst | Data Scientist
 
