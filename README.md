@@ -221,4 +221,4 @@ By the completion of this project:
 Aspiring Data Analyst | Data Scientist
 
 Skills:
-Python | SQL | Power BI | Machine Learning | Business Analytics
+Python | SQL | Power BI | Statistics | Machine Learning | Business Analytics 
