@@ -174,8 +174,6 @@ SupplyChain360-Analytics/
 │
 ├── notebooks/
 │   ├── 01_Data_Understanding.ipynb
-│   ├── 02_Data_Cleaning.ipynb
-│   └── 03_EDA.ipynb
 │
 ├── sql/
 │
