@@ -63,7 +63,7 @@ The following areas are excluded from this project due to data limitations:
 - Vehicle Routing Optimization
 - Real-time Shipment Tracking
 - Marketing Campaign Performance
-- Financial Accounting Analysis
+- Financial Accounting Analysis.
 
 ---
 
