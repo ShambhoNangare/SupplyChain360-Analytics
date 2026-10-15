@@ -177,6 +177,7 @@ SupplyChain360-Analytics/
 ├── notebooks/
 │   ├── 01_Data_Understanding.ipynb
 │   ├── 02_Data_Assessment.ipynb
+|
 ├── sql/
 │
 ├── dashboard/
