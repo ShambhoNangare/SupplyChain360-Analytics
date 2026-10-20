@@ -8,7 +8,7 @@
 
 ## 📌 Project Overview
 
-SupplyChain360 Analytics is an end-to-end supply chain analytics project focused on transforming raw supply chain data into meaningful business insights.
+SupplyChain360 Analytics is an end-to-end supply chain analytics project focused on transformingsupply chain data into meaningful business insights.
 
 The project analyzes different areas of supply chain operations including sales performance, profitability, customer behavior, and delivery efficiency to identify improvement opportunities and support data-driven decision making.
 
